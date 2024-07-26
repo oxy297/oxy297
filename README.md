@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him;
 - ⚡ Fun fact: I dropped programming many times because I thought it was easy and than I found out about it;
 
-- There's no projects here, yet. I know, but watch out, there will be some cool stuff here soon.
+- There's no projects here, yet, Iknow. But watch out, there will be some cool stuff here soon.
 
 <!---
 oxy297/oxy297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
